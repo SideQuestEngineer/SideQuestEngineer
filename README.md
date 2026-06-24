@@ -1,4 +1,4 @@
-## Charles Kim · SideQuestEngineer
+## Charles Kim · SideQuest Engineer
 
 Enterprise AI architect by day. Builder of things that shouldn't exist yet, by night.
 
@@ -22,7 +22,8 @@ I'm the solo AI and automation architect across a unified contact center platfor
 
 - Agentic AI architecture and multi-agent adversarial debate systems
 - RAG evaluation frameworks with GROUNDED / DRIFTED / CONFABULATED scoring
-- CX automation at enterprise scale (Genesys, OpenAI, OpenRouter)
+- CX automation at enterprise scale (Genesys, OpenAI, OpenRouter)o
+- 
 - Constraint-driven engineering — building production systems before the org is ready
 
 ---
